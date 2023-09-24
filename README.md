@@ -1,6 +1,7 @@
 # Overview
 This package provides a ROS2 driver node for HOKUYO 2D LiDAR(SOKUIKI Sensor).
 
+
 - Feature
   - Supports Ethernet and USB connections
   - Scanning data output
